@@ -1,4 +1,4 @@
-#Huffman
+# Huffman
 
 Discrete source coding method based on Huffman code using Matlab
 
